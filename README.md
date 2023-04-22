@@ -1,8 +1,8 @@
 # Principal Component Analysis and Isolation by Distance of *Hypsiscopus murphyi* and *Hypsiscopus plumbea*
 Data and scripts for PCA and IBD of Hypsiscopus murphyi (description paper)
 
-# Principal Component Analyses were performed with a size standardized and unstandardized dataset seperately. All scripts can be found at:
-  >
+# Principal Component Analyses were performed with a size standardized and unstandardized dataset seperately. All scripts and associated data files can be found at:
+  >[https://github.com/jbernst/hypsiscopus_murphyi/tree/main/PCoA](https://github.com/jbernst/hypsiscopus_murphyi/tree/main/PCoA)
 
 ## Source Publication
 Bernstein, J. M., Voris, H. K., Stuart, B. L., Phimmachak, S., Seateun, S., Sivongxay, N., Neang, T., Karns, D. R., Andrews, H. L., Osterhage, J., Phipps, E. A., Ruane, S. 2022. Undescribed diversity in a widespread, common group of Asian mud snakes (Serpentes: Homalopsidae: Hypsiscopus). Ichthyology and Herpetology 110(3): 561–574.

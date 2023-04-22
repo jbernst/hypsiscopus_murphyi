@@ -5,7 +5,8 @@ Data and scripts for PCA and IBD of Hypsiscopus murphyi (description paper)
 * Principal Component Analyses were performed with a size standardized and unstandardized dataset seperately. All scripts and associated data files can be found at:
   >[https://github.com/jbernst/hypsiscopus_murphyi/tree/main/PCoA](https://github.com/jbernst/hypsiscopus_murphyi/tree/main/PCoA)
 
-## Isolation by Distance (IBD) was performed with a Mantel Test. There are better methods to choose than this test, but are not investigated in this paper. The code and georeference data can be found at:
+## Isolation by Distance (IBD) 
+* Testing for IBD was performed with a Mantel Test. There are better methods to choose than this test, but are not investigated in this paper. The code and georeference data can be found at:
   >[https://github.com/jbernst/hypsiscopus_murphyi/tree/main/IBD](https://github.com/jbernst/hypsiscopus_murphyi/tree/main/IBD)
 
 ## Source Publication

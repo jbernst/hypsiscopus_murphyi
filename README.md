@@ -2,10 +2,11 @@
 Data and scripts for PCA and IBD of Hypsiscopus murphyi (description paper)
 
 
-# Taxon Sampling
+## Taxon Sampling
 * A complete list of all specimens included in this study can be found at:
   >[https://github.com/jbernst/hypsiscopus_murphyi/blob/main/Supplementary_Table1_Specimen-List.xlsx](https://github.com/jbernst/hypsiscopus_murphyi/blob/main/Supplementary_Table1_Specimen-List.xlsx)
-# Quantitative Morphological Analysis
+
+## Quantitative Morphological Analysis
 * Principal Component Analyses were performed with a size standardized and unstandardized dataset seperately. All scripts and associated data files can be found at:
   >[https://github.com/jbernst/hypsiscopus_murphyi/tree/main/PCoA](https://github.com/jbernst/hypsiscopus_murphyi/tree/main/PCoA)
 
